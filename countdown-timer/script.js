@@ -1,4 +1,4 @@
-const newYears = '29 April 2021';
+const newYears = '8 June 2021';
 let countDays = document.getElementById('days');
 let countHours = document.getElementById('hours');
 let countMins = document.getElementById('mins');
